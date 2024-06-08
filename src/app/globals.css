@@ -9,9 +9,6 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Manrope", sans-serif;
-  position: relative;
-width: 478px;
-height: 6539px;
 }
 
 /* START: General styles */
@@ -219,4 +216,3 @@ height: 6539px;
 .search-manufacturer__option {
   @apply cursor-default select-none py-2 pl-10 pr-4;
 }
-/* END: search manufacturer styles */
