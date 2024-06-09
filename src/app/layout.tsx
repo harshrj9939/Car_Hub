@@ -6,7 +6,7 @@ import { Footer, Navbar } from "../../components";
 
 export const metadata: Metadata = {
   title: "Car hub",
-  description: "Experience the seemless booking and best cars over the world",
+  description: "Experience the booking and best cars over the world",
 };
 
 export default function RootLayout({
